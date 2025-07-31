@@ -1,0 +1,14 @@
+# Ignore compiled binaries
+uart_receiver
+
+# Python cache and temp files
+__pycache__/
+*.py[cod]
+*.log
+
+# VS Code settings (optional)
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
